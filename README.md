@@ -1,2 +1,1 @@
-# ipbinding
-This is for bind the additional IP address in Linux centOS7 servers
+#this is the script for ipbinding in Linux centOS7
