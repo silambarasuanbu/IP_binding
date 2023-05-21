@@ -1,4 +1,5 @@
 #!/bin/bash
+cd /etc/sysconfig/network-scripts/
 #
 #######Check interface######
 #
